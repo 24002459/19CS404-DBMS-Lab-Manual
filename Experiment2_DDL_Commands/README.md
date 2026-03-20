@@ -306,6 +306,8 @@ INSERT INTO Products(ProductID,Name,Category,Stock) VALUES (108,'Wireless Earbud
 
 <img width="1811" height="306" alt="image" src="https://github.com/user-attachments/assets/30860e7b-ff40-4fad-8470-35c5eb5edd28" />
 
+### Grade 
+<img width="1384" height="370" alt="image" src="https://github.com/user-attachments/assets/6b13753b-6514-4ad9-bd82-a35e11b80072" />
 
 
 ## RESULT
