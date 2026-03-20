@@ -160,7 +160,12 @@ WHERE JOB_ID like'%MAN';
 ```
 **Output:**
 
-![image](https://github.com/user-attachments/assets/30c35d8d-ef7b-4012-8554-9d1fe551bc5b)
+![image](https://github.com/user-attachments/assets/30c35d8d-ef7b-4012-8554-9d1fe551bc5b)4
+
+### Grade 
+<img width="1384" height="370" alt="image" src="https://github.com/user-attachments/assets/6b13753b-6514-4ad9-bd82-a35e11b80072" />
+
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
