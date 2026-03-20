@@ -338,6 +338,9 @@ WHERE grade = (
 
 ![image](https://github.com/user-attachments/assets/d16e38c0-ec16-448e-b45b-fbb95ba9cba7)
 
+### Grade 
+<img width="1384" height="370" alt="image" src="https://github.com/user-attachments/assets/6b13753b-6514-4ad9-bd82-a35e11b80072" />
+
 
 
 ## RESULT
